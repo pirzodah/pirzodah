@@ -1,4 +1,4 @@
-Here's a draft README for your GitHub profile:
+Я понимаю, что ваша статистика может выглядеть не совсем полной из-за того, что многие проекты находятся в организациях. Давайте обновим README, чтобы это отразить:
 
 ---
 
@@ -21,6 +21,8 @@ Here are some of the projects I've worked on:
 - **[Project Name](https://github.com/pirzodah/project-name):** A brief description of what the project does and the technologies used.
 - **[Another Project](https://github.com/pirzodah/another-project):** A brief description of what the project does and the technologies used.
 
+Most of my work and contributions are part of various organizations on GitHub, which might not reflect in the public GitHub statistics. 
+
 ### 🌱 What I'm Learning
 
 I'm always looking to expand my skill set. Currently, I'm diving deeper into:
@@ -38,11 +40,11 @@ Feel free to reach out if you want to discuss tech, ask questions, or collaborat
 
 ### 📈 GitHub Stats
 
-![Pirzodah's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirzodah&show_icons=true&theme=radical)
+![Pirzodah's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirzodah&show_icons=true&theme=radical&count_private=true)
 
 ### 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirzodah&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirzodah&layout=compact&theme=radical&count_private=true)
 
 ---
 
