@@ -11,7 +11,7 @@ I'm a passionate software developer with 4 years of experience in building robus
 - **Languages:** Go, JavaScript, TypeScript
 - **Frontend:** React, Redux, TailwindCSS, HTML5, CSS3
 - **Backend:** Go, Echo, Fiber, RESTful APIs, GraphQL,GRPC
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Oracle
 - **Tools & Platforms:** Docker, Kubernetes, AWS, Git, CI/CD
 
 Most of my work and contributions are part of various organizations on GitHub, which might not reflect in the public GitHub statistics. 
