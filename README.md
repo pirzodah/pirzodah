@@ -25,5 +25,5 @@ I'm always looking to expand my skill set. Currently, I'm diving deeper into:
 Feel free to reach out if you want to discuss tech, ask questions, or collaborate on a project!
 
 - **Email:** pirovhakim37@gmail.com
-- **LinkedIn:** [linkedin.com/in/pirzodah]([https://linkedin.com/in/pirzodah](https://www.linkedin.com/in/hakimjon-pirov-581a74201/))
+- **LinkedIn:** [linkedin.com/in/pirzodah](https://linkedin.com/in/pirzodah](https://www.linkedin.com/in/hakimjon-pirov-581a74201/)
 
