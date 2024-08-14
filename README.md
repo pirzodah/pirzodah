@@ -26,4 +26,5 @@ Feel free to reach out if you want to discuss tech, ask questions, or collaborat
 
 - **Email:** pirovhakim37@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/hakimjon-pirov-581a74201/
+- **Habr:** https://habr.com/ru/users/pirov/
 
