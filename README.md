@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Pirzodah
 
-I'm a passionate software developer with 4 years of experience in building robust and scalable applications using Go and React. My journey in the tech world has been driven by a love for solving complex problems and a constant desire to learn and grow.
+I'm a passionate software developer with 5 years of experience in building robust and scalable applications using Go and React. My journey in the tech world has been driven by a love for solving complex problems and a constant desire to learn and grow.
 
 ### 🚀 Skills and Technologies
 
